@@ -1,5 +1,5 @@
 a = "a"
 b = 1
 print(a, b)
-print('kim min seok')
+print('Min seok')
 
