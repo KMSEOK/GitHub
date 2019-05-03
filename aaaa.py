@@ -1,2 +1,4 @@
 a = "a"
-print(a)
+b = 1
+print(a, b)
+
