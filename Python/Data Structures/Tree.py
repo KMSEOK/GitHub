@@ -1,8 +1,5 @@
-<<<<<<< HEAD
 
-=======
 # fix commit
->>>>>>> develop
 
 class Node:
 
