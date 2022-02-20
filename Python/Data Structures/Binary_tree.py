@@ -70,7 +70,6 @@ class Binary_tree:
                 queue.append(t.get_right_child())
 
 
-
 b_tree = Binary_tree()
 
 node_a = Node("A")
