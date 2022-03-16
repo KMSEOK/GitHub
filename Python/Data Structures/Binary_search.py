@@ -4,8 +4,6 @@ def find(list, taget, start,end):
     mid = (start + end) //2
     if start > end:
         return -1
-
-
     if list[mid] == taget:
         return mid 
     
